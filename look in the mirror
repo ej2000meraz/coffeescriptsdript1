@@ -1,0 +1,22 @@
+speed 100
+dot grey, 150
+rt 90
+fd 35
+dot red, 20
+lt 180
+fd 60
+dot red, 20
+lt 90
+fd 50
+pen lightblue, 10
+lt 90
+fd 60
+jumpto 30, 10
+lt 20
+pen lightgreen, 10
+fd 20
+rt 200
+jumpto -10, 10
+rt 20
+fd 20
+write 'madness'
