@@ -1,0 +1,15 @@
+speed 5
+pen red, 2.5
+fd 45
+lt 90
+fd 10
+rt 120
+fd 50
+rt 120
+fd 50
+rt 120
+fd 10
+lt 90
+fd 45
+rt 90
+fd 30
