@@ -1,0 +1,11 @@
+dot yellow, 150
+fd 20
+rt 90
+fd 20
+dot black, 20
+jumpto -20, 20
+dot black, 20
+jumpto -40, -40
+pen black, 8
+rt 80
+lt 125, 35
