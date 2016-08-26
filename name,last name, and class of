@@ -1,0 +1,208 @@
+speed Infinity
+lt 90
+fd 370
+lt 270
+fd 250
+dot red, 30
+rt 90
+fd 70
+pen purple, 10
+fd 30
+pu()
+fd 30
+dot purple, 30
+fd 40
+dot purple, 30
+fd 100
+pen blue, 10
+fd 30
+pu()
+fd 30
+pen blue, 10
+fd 30
+pu()
+fd 60
+dot red, 30
+fd 60
+dot green, 30
+fd 40
+pen green, 10
+fd 30
+pu()
+fd 40
+dot green, 30
+pu()
+fd 60
+dot black, 30
+fd 40
+pen black, 10
+fd 30
+pu()
+fd 40
+pen orange, 10
+fd 30
+pu()
+fd 30
+pen orange, 10
+fd 30
+pu()
+fd 40
+dot orange, 30
+fd 40
+dot orange, 30
+rt 180
+fd 930
+lt 90
+fd 100
+lt 90
+pen red, 10
+fd 30
+pu()
+fd 30
+dot red, 30
+fd 30
+pen red, 10
+fd 30
+pu()
+fd 30
+dot red, 30
+fd 50
+dot blue, 30
+fd 30
+pen blue, 10
+fd 30
+pu()
+fd 30
+dot blue, 30
+fd 30
+dot blue, 30
+fd 50
+dot green, 30
+fd 30
+pen green, 10
+fd 30
+pu()
+fd 40
+dot yellow, 30
+fd 40 
+dot yellow, 30
+fd 40
+dot yellow, 30
+fd 40
+dot yellow, 30
+fd 40
+dot yellow, 30
+fd 40
+dot yellow, 30
+lt 180
+fd 680
+lt 90
+fd 100
+lt 90
+pen purple, 10
+fd 30
+pu()
+fd 30
+pen purple, 10
+fd 30
+pu()
+fd 30
+pen purple, 10
+fd 30
+pu()
+fd 40
+dot orange, 30
+fd 40
+dot orange, 30
+fd 40
+pen orange, 10
+fd 30
+pu()
+fd 30
+dot orange, 30
+lt 180
+fd 300
+lt 90
+fd 100
+lt 90
+pen black, 10
+fd 30
+pu()
+fd 40
+dot grey, 30
+fd 30
+pen grey, 10
+fd 30
+pu()
+fd 30
+pen grey, 10 
+fd 30
+pu()
+fd 40
+dot brown, 30
+fd 40
+pen blue, 10
+fd 30
+pu()
+fd 30
+dot blue, 30
+fd 40
+pen red, 10
+fd 30
+pu()
+fd 40
+pen green, 10
+fd 30
+pu()
+fd 30
+dot green, 30
+fd 30 
+pen green, 10
+fd 30
+pu()
+fd 30 
+pen green, 10 
+fd 30
+pu()
+lt 180
+fd 600
+lt 90
+fd 100
+lt 90
+dot pink, 30
+fd 40
+dot green, 30
+fd 40 
+dot green, 30
+fd 40 
+pen grey, 10
+fd 30
+pu()
+fd 30
+pen grey, 10
+fd 30
+pu()
+fd 30
+dot grey, 30
+fd 40 
+dot red, 30
+fd 40
+dot red, 30
+fd 40 
+dot red, 30
+fd 40
+dot red, 30
+fd 40 
+pen black, 10
+fd 30
+pu()
+fd 40
+dot yellow, 30
+fd 40
+dot purple, 30
+fd 40 
+pen blue, 10
+fd 30
+pu()
+fd 30 
+dot blue, 30
