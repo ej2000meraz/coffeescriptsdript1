@@ -1,0 +1,76 @@
+speed 200
+pen black, 10
+fd 100
+rt 90
+fd 100
+rt 90
+fd 100
+rt 90
+fd 100
+rt 130
+fd 40
+lt 40
+fd 100
+rt 90
+fd 100
+rt 130
+fd 40
+lt 40
+fd 100
+lt 130
+fd 40
+lt 50
+fd 110
+lt 90 
+fd 100
+lt 50
+fd 40
+lt 180
+fd 35
+rt 140
+fd 100
+lt 90
+fd 100
+pu()
+fd 100
+rt 90
+fd 100
+lt 180
+pen red, 10
+fd 300
+lt 90
+fd 300
+lt 90
+fd 300
+lt 90
+fd 300
+lt 40
+fd 150
+lt 50
+fd 300
+lt 90
+fd 300
+lt 90
+fd 190
+pu()
+fd 110
+lt 90 
+fd 90
+pen red, 10
+fd 210
+pu()
+lt 180
+fd 
+fd 320
+lt 45
+fd 40
+pen red, 10
+fd 90
+rt 135
+fd 300
+rt 50
+fd 140
+rt 40
+fd 300
+rt 140
+fd 150
