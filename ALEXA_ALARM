@@ -1,0 +1,10 @@
+Day = 'Monday'
+play 'AG z c _B,/C/C_E2"
+    "_B,/C/CF_D"
+    "C/_D/Z/D/_B,2" AG z'
+say 'Good Morning! It is time to wake up'
+if Day is 'Monday'
+  say 'You have to go to school today'
+else
+  say 'Good bye!'
+
