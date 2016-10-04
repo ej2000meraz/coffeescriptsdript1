@@ -1,0 +1,56 @@
+speed 1000
+bk 200
+lt 90
+fd 200
+rt 90
+fd 100
+rt 60
+pen darkgreen, 10 
+fd 400
+lt 180
+for [1..8]
+ pen green, 1
+ lt 40
+ fd 60
+ bk 60
+ rt 40
+ fd 20
+ lt 40
+ fd 60
+ bk 60
+ rt 40
+ fd 20
+ 
+lt 180
+fd 320
+lt 140
+for [1..8]
+ pen green, 1 
+ fd 60
+ bk 60
+ lt 40
+ fd 20
+ rt 40
+ fd 60
+ bk 60
+ lt 40
+ fd 20
+ rt 40
+for [1..16]
+ pen lightgreen
+ fd 60
+ bk 60
+ lt 10
+ fd 20
+ lt 40
+ fd 60
+ bk 60
+ rt 40
+ fd 20
+ 
+ 
+  
+ 
+ 
+ 
+ 
