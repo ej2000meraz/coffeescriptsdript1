@@ -1,0 +1,6 @@
+speed (Infinity)
+scale 5
+pen red, 
+forever [1..30]
+for x in [100...1] by -1  
+  rt 30, x
