@@ -1,0 +1,12 @@
+pen green, 5
+rt 30, 200
+pen yellow, 10
+rt 360, 20
+pu()
+moveto(39, 131)
+for[1..7]
+  pen red, 5
+  rt 140, 20
+  lt 90
+  fill red
+
