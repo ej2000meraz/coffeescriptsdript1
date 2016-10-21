@@ -1,0 +1,111 @@
+dot lightblue, 1000
+jumpto(200, 220)
+dot yellow, 100
+lt 90
+fd 100
+pen grey, 20
+fd 50
+bk 25
+lt 90
+pen grey, 10
+fd 20
+bk 20
+lt 90
+fd 25
+lt 90
+fd 15
+jumpto(0,0)
+speed 1000
+pen violet, 5
+slide 15, 25
+slide 15, -25
+slide -15, 25
+fd 40
+slide 10, 12 
+slide -10, -12
+slide -10, 12
+slide 10, -12
+fd 15
+rt 90
+lt 360, 10 
+home()
+ht() 
+jumpto(59, 2)
+pen red, 5
+slide 15, 25
+slide 15, -25
+slide -15, 25
+fd 40
+slide 10, 12 
+slide -10, -12
+slide -10, 12
+slide 10, -12
+fd 15
+rt 90
+lt 360, 10 
+home()
+ht() 
+jumpto(208, -115)
+pen blue, 5
+slide 15, 25
+slide 15, -25
+slide -15, 25
+fd 40
+slide 10, 12 
+slide -10, -12
+slide -10, 12
+slide 10, -12
+fd 15
+rt 90
+lt 360, 10 
+home()
+ht() 
+jumpto(-178, 127)
+pen green, 5
+slide 15, 25
+slide 15, -25
+slide -15, 25
+fd 40
+slide 10, 12 
+slide -10, -12
+slide -10, 12
+slide 10, -12
+fd 15
+rt 90
+lt 360, 10 
+home()
+ht() 
+
+jumpto(-226,-94)
+pen darkred, 5
+slide 15, 25
+slide 15, -25
+slide -15, 25
+fd 40
+slide 10,12
+slide -10, -12
+slide -10, 12
+slide 10,-12
+fd 15
+rt 90
+lt 360, 10 
+home()
+ht() 
+
+jumpto(-55, -116)
+pen yellow, 5
+slide 15, 25
+slide 15, -25
+slide -15, 25
+fd 40
+slide 10, 12 
+slide -10, -12
+slide -10, 12
+slide 10, -12
+fd 15
+rt 90
+lt 360, 10 
+home()
+ht() 
+
+
