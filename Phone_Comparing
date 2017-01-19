@@ -1,0 +1,62 @@
+<!Doctype html>
+<html>
+  <head>
+    <title>Phone Comparison Table</title>
+  </head>
+  <body>
+    <table>
+      <thead>  
+        <tr>
+          <th>Apple Iphone 7</th>
+          <th>Google Pixel Xl</th>
+        </tr>
+        <tr>
+          <td>The Apple Iphone 7 has a 4.7-inch IPS LCD display. Powering it from within is a 64-bit Quead-Core Apple A10 Fusion proces...</td>
+          <td>Goggle Pixel XL is an Android 7.0 Nougat smartphone with a 5.5-inch WQHD AMOLED display, 1440x2560 resolution, and 523pp...</td>
+        </tr>
+      </thead>
+    </table>
+    <table>
+      <tbody>
+        <tr>
+          <th>General
+        </tr>
+        
+        <tr>
+          <th>Operating System:</th>
+          <th>Operating System:</th>
+        </tr>
+        <tr>
+          <td>IOS</td>
+          <td>Andriod</td>
+        </tr>
+        <tr>
+          <th>Device Type:</th>
+          <th>Decive Type:</th>
+        </tr>
+        <tr>
+          <td>Smartphone</td>
+          <td>Smartphone</td>
+        </tr>  
+        <tr>
+          <th>Phone-Form:</th>
+          <th>Phone-Form:</th>
+        </tr>
+        <tr>
+          <td>Open-Faced</td>
+          <td>Open-Faced</td>
+        </tr>
+        <tr>
+          <th>Manufacture:</th>
+          <th>Manufacture:</th>
+        </tr>
+        <tr>
+          <td>Apple</td>
+          <td>Google</td>
+        </tr>
+      
+        
+      </tbody>
+    </table>
+  </body>
+</html>
