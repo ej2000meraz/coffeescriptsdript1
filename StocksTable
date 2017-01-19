@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <title>Basic Table Structure</title>
+  </head>
+  <body>
+    <table>
+      <tr>
+        <th></th>
+        <th scope="col">Value </th>
+        <th scope="col">Net Change</th>
+        <th scope="col">% Change</th>
+         <th scope="col">1 month </th>
+          <th scope="col">1 year</th>
+           <th scope="col">Time (EST)</th>
+        
+ 
+      </tr>
+      <tr>
+        <th scope="row">INDU:IND <br> Dow Jones Indus.Avg</th>
+        <td>19,855.73</td>
+        <td>-5.27</td>
+        <td>-0.03%</td>
+        <td>+.21%</td>
+        <td>+24.38%</td>
+        <td>1/13/2017</td>
+        
+      </tr>
+      <tr>
+        <th scope="row">SPX:IND<br>S&P 500 INDEX
+        <td>2,274.64</td>
+        <td>+4.20</td>
+        <td>+0.18%</td>
+        <td>+0.73%</td>
+        <td>+20.97%</td>
+        <td>1/13/2017</td>
+      </tr>
+      <tr>
+        <th scope="row">CCMP:IND<br> NASDAQ COMPOSITE INDEX</th>
+        <td>5,574.12</td>
+        <td>+26.63</td>
+        <td>+0.48%</td>
+        <td>+2.52%</td>
+        <td>+24.19%</td>
+        <td>1/13/2017</td>
+      </tr>
+      <tr>
+        <th scope="row">NYA:IND<br>NYSE COMPOSITE INDEX</th>
+        <td>11,227.17</td>
+        <td>+23.02</td>
+        <td>+0.21</td>
+        <td>+0.92</td>
+        <td>+20.73</td>
+        <td>1/13/2017</td>
+      </tr>
+      <tr>
+        <th scope="row">SPTSX:IND<br>S&P/TSX</th>
+        <td>15,479.29</td>
+        <td>-17.99%</td>
+        <td>-0.12%</td>
+        <td>+1.49%</td>
+        <td>+28.21</td>
+        <td>4:35pm</td>
+      </tr>
+    </table>
+  </body>
+</html>
