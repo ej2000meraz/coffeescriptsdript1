@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <title>Basic Table Structure</title>
+  </head>
+  <body>
+    <table>
+        
+      <tr>
+        <th>Name</th>
+        <td>Eduardo Meraz</td>
+        
+      </tr>
+      <tr>
+        <th>School</th>
+        <td>Notre Dame de Namur or UC Berkeley</td>
+    
+      </tr>
+      <tr>
+        <th>Profession</th>
+        <td>Story writer or video game developer</td>
+      </tr>
+      <tr>
+        <th>Fashion Design</th>
+        <td>Vans</td>
+        
+        
+      </tr>
+    </table>
+  </body>
+</html>
