@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <title>Basic Table Structure</title>
+  </head>
+  <body>
+    <table>
+      <tr>
+        <th></th>
+        <th scope="col">999 Cole Pl </th>
+        <th scope="col">1388 Fremont St</th>
+        <th scope="col">2614 Barcells Ave.</th>
+        
+ 
+      </tr>
+      <tr>
+        <th scope="row">Property Type</th>
+        <td>Townhouse</td>
+        <td>Single Family Home</td>
+        <td>Single Family Home</td>
+        
+      </tr>
+      <tr>
+        <th scope="row">Lot Size
+        <td>1,200 square feet</td>
+        <td>5,200 square feet</td>
+        <td>7,800 square feet</td>
+      </tr>
+      <tr>
+        <th scope="row">Stories</th>
+        <td>3</td>
+        <td>2</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <th scope="row">Bathrooms</th>
+        <td>2</td>
+        <td>2</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <th scope="row">Pool?</th>
+        <td colspan="2">Yes</td>
+        <td>Probably make one</td>
+        
+      </tr>
+    </table>
+  </body>
+</html>
