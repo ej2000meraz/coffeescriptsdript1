@@ -1,0 +1,70 @@
+
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <title>Basic Table Structure</title>
+  </head>
+  <body>
+    <table>
+      <tr>
+        <th></th>
+        <th scope="col">Value </th>
+        <th scope="col">Net Change</th>
+        <th scope="col">% Change</th>
+         <th scope="col">1 month </th>
+          <th scope="col">1 year</th>
+           <th scope="col">Time (EST)</th>
+        
+ 
+      </tr>
+      <tr>
+        <th scope="row">INDU:IND <br> Dow Jones Indus.Avg</th>
+        <td>19,855.73</td>
+        <td style="color:#FF0000;">-5.27</td>
+        <td style="color:#FF0000;">-0.03%</td>
+        <td style="color:#33FF4C;">+0.21%</td>
+        <td style="color:33FF4C;">+24.38%</td>
+        <td>1/13/2017</td>
+        
+      </tr>
+      <tr>
+        <th scope="row">SPX:IND<br>S&P 500 INDEX
+        <td>2,274.64</td>
+        <td style="color:#33FF4C;">+4.20</td>
+        <td style="color:#33FF4C;" >+0.18%</td>
+        <td style="color:#33FF4C;">+0.73%</td>
+        <td  style="color:#33FF4C;">+20.97%</td>
+        <td>1/13/2017</td>
+      </tr>
+      <tr>
+        <th scope="row">CCMP:IND<br> NASDAQ COMPOSITE INDEX</th>
+        <td>5,574.12</td>
+        <td style="color:#33FF4C;">+26.63</td>
+        <td style="color:#33FF4C;">+0.48%</td>
+        <td style="color:#33FF4C;">+2.52%</td>
+        <td style="color:#33FF4C;">+24.19%</td>
+        <td>1/13/2017</td>
+      </tr>
+      <tr>
+        <th scope="row">NYA:IND<br>NYSE COMPOSITE INDEX</th>
+        <td>11,227.17</td>
+        <td style="color:#33FF4C;">+23.02</td>
+        <td style="color:#33FF4C;">+0.21</td>
+        <td style="color:#33FF4C;">+0.92</td>
+        <td style="color:#33FF4C;">+20.73</td>
+        <td>1/13/2017</td>
+      </tr>
+      <tr>
+        <th scope="row">SPTSX:IND<br>S&P/TSX</th>
+        <td>15,479.29</td>
+        <td style="color:#FF0000;">-17.99%</td>
+        <td style="color:#FF0000;">-0.12%</td>
+        <td style="color:#33FF4C;">+1.49%</td>
+        <td style="color:#33FF4C;">+28.21</td>
+        <td>4:35pm</td>
+      </tr>
+    </table>
+  </body>
+</html>
+
